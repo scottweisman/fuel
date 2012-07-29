@@ -7,6 +7,8 @@ gem 'thin'
 gem 'simple_form'
 gem 'faker'
 gem 'bourbon'
+gem "friendly_id"
+gem 'redcarpet'
 
 group :development do
   gem 'quiet_assets'
