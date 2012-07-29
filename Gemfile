@@ -6,6 +6,7 @@ gem 'jquery-rails'
 gem 'thin'
 gem 'simple_form'
 gem 'faker'
+gem 'bourbon'
 
 group :development do
   gem 'quiet_assets'
